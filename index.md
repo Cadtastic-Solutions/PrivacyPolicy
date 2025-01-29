@@ -90,6 +90,6 @@ For questions or concerns about this Privacy Policy or your personal data, conta
 **Cadtastic Solutions LLC**  
 1910 Pacific Ave Suite 2000 PMB2725  
 Dallas, TX 75201  
-[privacy@cadtasticsolutions.com?subject=Questions%20about%20your%20privacy%20policy](mailto:privacy@cadtasticsolutions.com?subject=Questions%20about%20your%20privacy%20policy)
+[privacy@cadtasticsolutions.com](mailto:privacy@cadtasticsolutions.com?subject=Questions%20about%20your%20privacy%20policy)
 
 By using our services, you acknowledge that you have read and understand this Privacy Policy.
